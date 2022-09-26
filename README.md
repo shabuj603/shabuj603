@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Khrshed Alam
-- 👀 I’m interested in Programing
+- 👀 I’m interested in PHP, javascript, jQuery, HTML, CSS, React
 - 🌱 I’m currently learning react 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on laravel project 
 - 📫 How to reach me shabuj603@gmail.com
 
 <!---
