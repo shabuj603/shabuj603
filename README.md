@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khrshed Alam
 - 👀 I’m interested in PHP,Laravel,javascript, React,jQuery, HTML, CSS, Taeilwind 
-- 🌱 I’m currently learning react 
+- 🌱 I’m in Expert UI/UX Design
 - 💞️ I’m looking to collaborate on laravel project 
 - 📫 How to reach me shabuj603@gmail.com
 
