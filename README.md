@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Khrshed Alam
+- 👋 Hi, I’m Khorshed Alam
 - 👀 I’m Expert PHP,Laravel,javascript, React,jQuery, HTML, CSS, Taeilwind 
 - 🌱 I’m in Expert UI/UX Design
 - 💞️ I’m looking to collaborate on laravel project 
