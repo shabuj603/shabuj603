@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/github-banner.png" width="100%" alt="MD. Khorshed Alam Banner">
+</p>
 # 👋 Hi, I'm MD. Khorshed Alam
 
 <h3 align="center">🚀 Senior Full Stack Web Developer | Laravel | React | PHP | WordPress</h3>
